@@ -1,0 +1,15 @@
+{
+  "name": "'nmkeco'",
+  "version": "1.1.1",
+  "description": "'This is the final copy of the NMK GLOBAL E Retail platform'",
+  "main": "'index.html'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'https://github.com/yogendra990/NMK_ECO_FINALCOPY.git'"
+  },
+  "author": "'Yogendra.Atluri'",
+  "license": "ISC"
+}
